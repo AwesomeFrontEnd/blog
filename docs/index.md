@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Meggy"
   text: "个人博客"
-  tagline: 👋 Hi, 刘俊一个人随便写着玩玩的博客，记录一下自己的心路历程. 我的英文名 Flora Adia Aurora，nickname 叫做 meggy. 所以这个博客就叫meggy啦.  本博客的主域名 https://meg.gy，备用域名 https://m.vercel.app .
+  tagline: 👋 Hi, 刘俊一个人随便写着玩玩的博客，记录一下自己的心路历程. 我的英文名 Flora Adia Aurora，nickname 叫做 meggy. 所以这个博客就叫meggy啦.  本博客域名 https://meg.gy 与 https://m.vercel.app.
   image:
     src: /images/aurora1.png
     alt: Aurora's Avatar
